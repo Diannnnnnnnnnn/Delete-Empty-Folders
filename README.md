@@ -18,12 +18,12 @@ No installation required! This script is a standalone Python file.
 
 **Usage**
 
-1. Save the script as `empty_folder_cleaner.py` (or your chosen name) in your desired location.
+1. Save the script as `Cleaner.py` (or your chosen name) in your desired location.
 2. Open a terminal or command prompt and navigate to the directory containing the script.
 3. Run the script using the following command:
 
 ```
-python empty_folder_cleaner.py
+python Cleaner.py
 ```
 
 4. Follow the prompts to select the directory you want to clean and choose your deletion options.
