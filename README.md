@@ -1,6 +1,4 @@
 # Delete-Empty-Folders
-Absolutely! Here's a README.md file you can add to your repository for your empty folder cleaner script:
-
 **Empty Folder Cleaner**
 
 This Python script helps you clean up your file system by identifying and removing empty folders within a specified directory tree.
@@ -12,10 +10,6 @@ This Python script helps you clean up your file system by identifying and removi
 * **Informative Messages:** Stay informed throughout the process with clear messages for successful deletions, cancelled operations, and encountered errors.
 * **Looping Functionality:** Continuously process different directories without restarting the script.
 
-**Installation**
-
-No installation required! This script is a standalone Python file.
-
 **Usage**
 
 1. Save the script as `Cleaner.py` (or your chosen name) in your desired location.
@@ -23,6 +17,9 @@ No installation required! This script is a standalone Python file.
 3. Run the script using the following command:
 
 ```
+pkg install git
+git clone https://github.com/Diannnnnnnnnnn/Delete-Empty-Folders
+cd Delete-Empty-Folders
 python Cleaner.py
 ```
 
